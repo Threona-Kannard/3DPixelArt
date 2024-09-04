@@ -1,0 +1,1 @@
+return {invert=false,edgeIntensity="0.1",numColors="11",repeating=false,colorChannel="red",heightMapLayer="HeightMap",useSelectedLayer=true,normalLayer="Normal",discrete=false}
